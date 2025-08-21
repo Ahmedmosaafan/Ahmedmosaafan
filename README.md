@@ -16,7 +16,7 @@
 ---
 
 ## 🌍 Goals
-- Gain professional experience in Robotics & AI  
+- Gain professional experience in Robotics & Automation  
 - Build and publish more open-source projects    
 
 ---
