@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Ahmedmosaafan/Ahmedmosaafan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Ahmed Mosaafan  
 
-Here are some ideas to get you started:
+🎓 Mechatronics Engineering Student | ⚙️ Robotics & Automation Enthusiast   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+- Arduino, PLC, and Embedded Systems  
+- C / C++ / Python
+- Protues & Kicad 
+- SolidWorks & CAD Design  
+- Control Systems & Electronics  
+
+
+---
+
+## 🌍 Goals
+- Gain professional experience in Robotics & AI  
+- Build and publish more open-source projects    
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://linkedin.com/in/ahmedmosaafan)  
+- [GitHub](https://github.com/Ahmedmosaafan)  
+- 📧 Email: yourmail@example.com
+
