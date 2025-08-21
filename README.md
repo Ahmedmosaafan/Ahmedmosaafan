@@ -22,7 +22,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/ahmedmosaafan)  
-- [GitHub](https://github.com/Ahmedmosaafan)  
-- 📧 Email: yourmail@example.com
+- [LinkedIn](https://www.linkedin.com/in/ahmed-saafan-a37401320/) 
+- [whatsapp](01023918132)  
+- 📧 Email: ahmed7realmadrid13@gmail.com
+
 
